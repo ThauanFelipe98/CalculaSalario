@@ -1,0 +1,45 @@
+
+.logo img{
+    width: 100%;
+}
+.salario{
+    width:100%;
+    height:auto;
+    background-color: #000;
+    float:left;
+}
+.info{
+    text-align: center;
+    color: rgb(252, 179, 32);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+.calculos{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    display: table;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 196, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    color: white;
+    background-color: red;
+    text-align: center;
+    width: 132px;
+   
+    
+}
+
+
+.result{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
